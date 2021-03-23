@@ -13,7 +13,7 @@ Final Database Project including Use Node, Express, A new framework, or language
 Clone this repo here: https://github.com/ndoan24/Final-DB
 
 
-![GitHub Logo](images/ExpresPortfolio.png)
+![GitHub Logo](images/PortfolioHome.png)
 Format: ![Server.JS Code](https://github.com/ndoan24/Express-Portfolio/blob/main/server.js)
 
 
