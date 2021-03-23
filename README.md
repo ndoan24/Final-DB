@@ -10,7 +10,7 @@
 ## **Goal**:
 Final Database Project including Use Node, Express, A new framework, or language (jade, handlebars etc) Create a *fullstack project minus the database. 
 
-Clone this repo here: https://github.com/ndoan24/Express-Portfolio.git
+Clone this repo here: https://github.com/ndoan24/Final-DB
 
 
 ![GitHub Logo](images/ExpresPortfolio.png)
