@@ -1,0 +1,24 @@
+{
+  "name": "Final-DB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndoan24/Final-DB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndoan24/Final-DB/issues"
+  },
+  "homepage": "https://github.com/ndoan24/Final-DB#readme",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "nodemailer": "^6.5.0"
+  }
+}
