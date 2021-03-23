@@ -13,11 +13,7 @@ Final Database Project including Use Node, Express, A new framework, or language
 Clone this repo here: https://github.com/ndoan24/Final-DB
 
 
-![GitHub Logo](images/ExpresPortfolio.png)
-Format: ![Server.JS Code](https://github.com/ndoan24/Express-Portfolio/blob/main/server.js)
+![GitHub Logo](images/PortfolioHome.png)
+Format: ![Server.JS Code](https://github.com/ndoan24/Final-DB/blob/main/server.js)
 
-
-![GitHub Logo](images/code1.png)
-
-
-![GitHub Logo](images/code2.png)
+## **Code**: Node, Express, Bootstrap, HTML, Node Modules, npm i, npm i express, npm i jade, npm nodemailer 
