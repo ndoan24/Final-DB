@@ -4,11 +4,17 @@ var express = require('express');
 var app = express();
 var path = require('path');
 
+
 //Set our PORT
 
  var PORT = 3000;
 
  //Sets up the express app to handle data parsing for sending POST requests
+
+//Parses the HTTP request body
+//Allows Express to read the body and parse it to JSON
+//urlencoded converts characters into a format that can be sent over internet 
+//extended: false it will display date differently
 
 app.use(express.urlencoded({extended:true}));
 app.use(express.json());
@@ -40,6 +46,9 @@ res.sendFile(_dirname + "/views/404.html")
 app.post('/thanks', function(req,res){
     console.log(req.body);res.send("Request received!");
 });
+
+
+
 
 //Starts our server to begin listening
 
