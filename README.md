@@ -16,4 +16,8 @@ Clone this repo here: https://github.com/ndoan24/Final-DB
 ![GitHub Logo](images/Portfolo300.png)
 Format: ![Server.JS Code](https://github.com/ndoan24/Final-DB/blob/main/server.js)
 
+![GitHub Logo](images/jade.png)
+
+
+
 ## **Code**: Node, Express, Bootstrap, HTML, Node Modules, npm i, npm i express, npm i jade, npm nodemailer, using jade
